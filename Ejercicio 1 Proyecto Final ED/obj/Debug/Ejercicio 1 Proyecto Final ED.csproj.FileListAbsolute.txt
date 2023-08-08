@@ -1,0 +1,8 @@
+C:\Users\erick\source\repos\Ejercicio 1 Proyecto Final ED\Ejercicio 1 Proyecto Final ED\bin\Debug\Ejercicio 1 Proyecto Final ED.exe.config
+C:\Users\erick\source\repos\Ejercicio 1 Proyecto Final ED\Ejercicio 1 Proyecto Final ED\bin\Debug\Ejercicio 1 Proyecto Final ED.exe
+C:\Users\erick\source\repos\Ejercicio 1 Proyecto Final ED\Ejercicio 1 Proyecto Final ED\bin\Debug\Ejercicio 1 Proyecto Final ED.pdb
+C:\Users\erick\source\repos\Ejercicio 1 Proyecto Final ED\Ejercicio 1 Proyecto Final ED\obj\Debug\Ejercicio 1 Proyecto Final ED.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Ejercicio 1 Proyecto Final ED\Ejercicio 1 Proyecto Final ED\obj\Debug\Ejercicio 1 Proyecto Final ED.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\source\repos\Ejercicio 1 Proyecto Final ED\Ejercicio 1 Proyecto Final ED\obj\Debug\Ejercicio 1 Proyecto Final ED.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Ejercicio 1 Proyecto Final ED\Ejercicio 1 Proyecto Final ED\obj\Debug\Ejercicio 1 Proyecto Final ED.exe
+C:\Users\erick\source\repos\Ejercicio 1 Proyecto Final ED\Ejercicio 1 Proyecto Final ED\obj\Debug\Ejercicio 1 Proyecto Final ED.pdb
