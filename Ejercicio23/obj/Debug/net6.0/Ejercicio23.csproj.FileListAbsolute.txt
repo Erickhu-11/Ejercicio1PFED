@@ -1,0 +1,29 @@
+C:\Users\Nadia Ugalde\source\repos\Ejercicio23\bin\Debug\net6.0\Ejercicio23.exe
+C:\Users\Nadia Ugalde\source\repos\Ejercicio23\bin\Debug\net6.0\Ejercicio23.deps.json
+C:\Users\Nadia Ugalde\source\repos\Ejercicio23\bin\Debug\net6.0\Ejercicio23.runtimeconfig.json
+C:\Users\Nadia Ugalde\source\repos\Ejercicio23\bin\Debug\net6.0\Ejercicio23.dll
+C:\Users\Nadia Ugalde\source\repos\Ejercicio23\bin\Debug\net6.0\Ejercicio23.pdb
+C:\Users\Nadia Ugalde\source\repos\Ejercicio23\obj\Debug\net6.0\Ejercicio23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadia Ugalde\source\repos\Ejercicio23\obj\Debug\net6.0\Ejercicio23.AssemblyInfoInputs.cache
+C:\Users\Nadia Ugalde\source\repos\Ejercicio23\obj\Debug\net6.0\Ejercicio23.AssemblyInfo.cs
+C:\Users\Nadia Ugalde\source\repos\Ejercicio23\obj\Debug\net6.0\Ejercicio23.csproj.CoreCompileInputs.cache
+C:\Users\Nadia Ugalde\source\repos\Ejercicio23\obj\Debug\net6.0\Ejercicio23.dll
+C:\Users\Nadia Ugalde\source\repos\Ejercicio23\obj\Debug\net6.0\refint\Ejercicio23.dll
+C:\Users\Nadia Ugalde\source\repos\Ejercicio23\obj\Debug\net6.0\Ejercicio23.pdb
+C:\Users\Nadia Ugalde\source\repos\Ejercicio23\obj\Debug\net6.0\Ejercicio23.genruntimeconfig.cache
+C:\Users\Nadia Ugalde\source\repos\Ejercicio23\obj\Debug\net6.0\ref\Ejercicio23.dll
+C:\Users\erick\Downloads\Ejercicio23\bin\Debug\net6.0\Ejercicio23.exe
+C:\Users\erick\Downloads\Ejercicio23\bin\Debug\net6.0\Ejercicio23.deps.json
+C:\Users\erick\Downloads\Ejercicio23\bin\Debug\net6.0\Ejercicio23.runtimeconfig.json
+C:\Users\erick\Downloads\Ejercicio23\bin\Debug\net6.0\Ejercicio23.dll
+C:\Users\erick\Downloads\Ejercicio23\bin\Debug\net6.0\Ejercicio23.pdb
+C:\Users\erick\Downloads\Ejercicio23\obj\Debug\net6.0\Ejercicio23.csproj.AssemblyReference.cache
+C:\Users\erick\Downloads\Ejercicio23\obj\Debug\net6.0\Ejercicio23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Downloads\Ejercicio23\obj\Debug\net6.0\Ejercicio23.AssemblyInfoInputs.cache
+C:\Users\erick\Downloads\Ejercicio23\obj\Debug\net6.0\Ejercicio23.AssemblyInfo.cs
+C:\Users\erick\Downloads\Ejercicio23\obj\Debug\net6.0\Ejercicio23.csproj.CoreCompileInputs.cache
+C:\Users\erick\Downloads\Ejercicio23\obj\Debug\net6.0\Ejercicio23.dll
+C:\Users\erick\Downloads\Ejercicio23\obj\Debug\net6.0\refint\Ejercicio23.dll
+C:\Users\erick\Downloads\Ejercicio23\obj\Debug\net6.0\Ejercicio23.pdb
+C:\Users\erick\Downloads\Ejercicio23\obj\Debug\net6.0\Ejercicio23.genruntimeconfig.cache
+C:\Users\erick\Downloads\Ejercicio23\obj\Debug\net6.0\ref\Ejercicio23.dll
